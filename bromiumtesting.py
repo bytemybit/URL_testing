@@ -24,9 +24,3 @@ if __name__ == '__main__':
                 break
             openBrowser(next_n_lines)           # sending 10 lines from the input file into openBrowser
             time.sleep(5)                       # sleep for 5 seconds before sending 10 more into openBrowser
-    # for url in f:
-    #     openBrowser(url)
-
-
-
-
